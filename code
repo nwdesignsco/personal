@@ -1,0 +1,44 @@
+//HORIZONTAL//
+.Main-content {
+background-color: #A84298 ; 
+background-image: linear-gradient(to right, #A84298 , #DD76CE );
+}
+/* Newsletter Box Style*/
+#block-yui_3_17_2_1_1558359123944_3704{
+  font-family: 'Source Sans Pro', sans-serif;
+height: 20%;
+width: 40%;
+  background:linear-gradient(-30deg,#1A1D2A,#0B0C0D);
+  color:grey;
+  border: none;
+  border-radius: 25px;
+  padding: 80px;
+  box-shadow: 3px 2px 100px;
+  padding-top: 250px; 
+}
+/* Change Info Section */
+.form-wrapper .field-list .fields .title, .form-wrapper .field-list .fields .description, .form-wrapper .field-list .fields .field, .form-wrapper .field-list .fields .field-error
+{
+  margin-left: 3%;
+}
+.form-wrapper .field-list .field .field-element{
+  font-family: 'Source Sans Pro', sans-serif;
+  padding: 20px;
+  border: none;
+  border-radius: 25px;
+  height: 50px;
+  font-size: 15px; 
+}
+
+/* Add Text */
+p{
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #F9F091;
+  font-size: 100px;
+  positiion: absolute;
+  top: 150px;
+  left: 60px;
+  
+}
+
+/* Change Bottom Style */
